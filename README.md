@@ -36,7 +36,7 @@ You have the choice of buying one of two cars. One is more fuel efficient than t
 
 ## Screen Capture
 
-![]()
+![](https://github.com/c1flores/Car-Comparison-Utility/assets/81927296/0d4f3edd-045c-424a-8013-cf89cf2203d8)
 
 ## Installation
 
@@ -61,7 +61,7 @@ cd PATH_TO_DIRECTORY
 2. Navigate to the directory containing the Java file, and then compile it:
 
 ```sh
-cd src/assets/Java
+cd assets/Java
 javac CarComparison.java
 ```
 
@@ -69,5 +69,5 @@ javac CarComparison.java
 
 ```sh
 cd ../..
-java assets/Java/CarComparison
+java assets/Java/CarComparison.java
 ```
